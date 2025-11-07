@@ -1,0 +1,31 @@
+.primary {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    font-family: "Agency FB";
+}
+
+.secondary {
+    background-color: grey;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    font-family: "Copperplate Gothic Light";
+}
+
+.primary:hover {
+    background-color: darkblue;
+}
+
+.secondary:hover {
+    background-color: darkgray;
+}
